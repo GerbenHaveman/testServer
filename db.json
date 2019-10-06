@@ -7,7 +7,7 @@
     { "id": 1, "klantid": 1},
     { "id": 2, "klantid": 2},
     { "id": 3, "klantid": 2},
-    { "id": 4, "klantid": 1},
+    { "id": 4, "klantid": 1}
   ],
   "bestelregels": { "name": "typicode" }
 }
