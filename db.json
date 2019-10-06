@@ -1,6 +1,7 @@
 {
   "klanten": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "naam": "Gerben", "achternaam": "Haveman" },
+    { "id": 2, "naam": "Marnix", "achternaam": "Ruit" }
   ],
   "winkelmanden": [
     { "id": 1, "body": "some comment", "postId": 1 }
