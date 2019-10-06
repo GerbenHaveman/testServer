@@ -1,0 +1,16 @@
+{
+  "Klanten": [
+    {
+      "Id": 1,
+      "Voornaam": Gerben,
+      "Achternaam": Haveman,
+      "Adres": {
+          "Straat":Test,
+          "Huisnummer": 1,
+          "Huisnummertoevoeging": B,
+          "Postcode": 1234AB,
+          "Plaats": Zoetermeer,
+          "Land" : Land
+      }
+  }]
+}
