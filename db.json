@@ -2,9 +2,5 @@
   "klanten": [
     { "id": 1, "naam": "Gerben", "achternaam": "Haveman" },
     { "id": 2, "naam": "Marnix", "achternaam": "Ruit" }
-  ],
-  "winkelmanden": [
-    { "id": 1, "klantid": 1}
-  ],
-  "bestelregels": { "name": "typicode" }
+  ]
 }
