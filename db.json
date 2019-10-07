@@ -9,5 +9,7 @@
     { "id": 3, "klantid": 2},
     { "id": 4, "klantid": 1}
   ],
-  "bestelregels": { "name": "typicode" }
+  "bestelregels": [
+    { "id": 1, "aantal": 1, "productnaam": "Pindakaas", "eenheidsprijs": 1.20, "Winkelmand_id" :  1}
+  ],
 }
