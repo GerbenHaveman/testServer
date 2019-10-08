@@ -10,7 +10,7 @@
     { "id": 4, "klantid": 1}
   ],
   "bestelregels": [
-    { "id": 1, "aantal": 1, "productnaam": "Pindakaas", "eenheidsprijs": 1.20, "Winkelmand_id" :  1}
+    { "id": 1, "aantal": 1, "productnaam": "Pindakaas", "eenheidsprijs": 1.20, "Winkelmand_id" :  1},
     { "id": 2, "aantal": 1, "productnaam": "Pindakaas", "eenheidsprijs": 1.20, "Winkelmand_id" :  2}
   ]
 }
